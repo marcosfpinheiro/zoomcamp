@@ -16,4 +16,5 @@ serving_dir
 .ipynb_checkpoints/
 not_implemented/
 originals/
+venv/
 !week_6_stream_processing/avro_example/data/rides.csv
